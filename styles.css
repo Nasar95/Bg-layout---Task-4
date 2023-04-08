@@ -1,0 +1,225 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;  
+}
+
+* body {
+    background-color: rgb(15, 3, 31);
+} 
+
+fieldset {
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+legend {
+    margin-left: 40%;
+    color: white;
+    padding: 20px;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+  
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    flex-direction: column;
+    position: relative;
+    
+}
+
+.box1 {
+    width: 900px;
+    height: 200px;
+    display: flex;
+    font-size: larger;
+    background-image: url(img/bg1.jpg);
+    background-size: cover;
+    background-clip:text ;
+    text-align: center;
+    justify-content: center;
+    overflow: hidden;
+    margin-top: 1px;
+   flex-direction: column;
+   color:lightyellow;
+   font-family: 'Cinzel Decorative', cursive;
+
+}
+
+.box2 {
+    width: 900px;
+    height: 200px;
+    display: flex;
+    font-size: larger;
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+    background-clip:text ;
+    text-align: center;
+    justify-content: center;
+    overflow: hidden;
+    flex-direction: column;
+    font-family: 'Jacques Francois Shadow', cursive;
+}
+
+.box3 {
+    width: 900px;
+    height: 200px;
+    display: flex;
+    font-size: larger;
+    background-image: url(img/bg12.jpg);
+    background-size: cover;
+    background-clip:text ;
+    text-align: center;
+    justify-content: center;
+    overflow: hidden;
+    flex-direction: column;
+    font-family: 'Cinzel Decorative', cursive;  
+}
+
+.box4 {
+    width: 900px;
+    height: 200px;
+    display: flex;
+    font-size: larger;
+    background-image: url(img/bg6.jpg);
+    background-size: cover;
+    background-clip:text ;
+    text-align: center;
+    justify-content: center;
+    overflow: hidden;
+    flex-direction: column;
+    font-family: 'Cinzel Decorative', cursive;   
+}
+
+.box5 {
+    width: 900px;
+    height: 200px;
+    display: flex;
+    font-size: larger;
+    background-image: url(img/bg4.jpg);
+    background-size: cover;
+    background-clip:text ;
+    text-align: center;
+    justify-content: center;
+    overflow: hidden;
+    flex-direction: column;
+    font-family: 'Cinzel Decorative', cursive;
+    color: antiquewhite;   
+}
+
+.box6 {
+    width: 900px;
+    height: 200px;
+    display: flex;
+    font-size: larger;
+    background-image: url(img/bg5.jpg);
+    background-size: cover;
+    background-clip:text ;
+    text-align: center;
+    justify-content: center;
+    overflow: hidden;
+    flex-direction: column;
+    font-family: 'Cinzel Decorative', cursive;
+
+}
+
+.box7 {
+    width: 900px;
+    height: 200px;
+    display: flex;
+    font-size: larger;
+    background-image: url(img/bg2.jpg);
+    background-size: cover;
+    background-clip:text ;
+    text-align: center;
+    justify-content: center;
+    overflow: hidden;
+    flex-direction: column;
+    font-family: 'Cinzel Decorative', cursive;    
+}
+
+.box8 {
+    width: 900px;
+    height: 200px;
+    display: flex;
+    font-size: larger;
+    background-image: url(img/bg7.jpg);
+    background-size: cover;
+    background-clip:text ;
+    text-align: center;
+    justify-content: center;
+    overflow: hidden;
+    flex-direction: column;
+    font-family: 'Cinzel Decorative', cursive;
+
+}
+
+.box9 {
+    width: 900px;
+    height: 200px;
+    display: flex;
+    font-size: larger;
+    background-image: url(img/bg8.jpg);
+    background-size: cover;
+    background-clip:text ;
+    text-align: center;
+    justify-content: center;
+    overflow: hidden;
+    flex-direction: column;
+    font-family: 'Cinzel Decorative', cursive;    
+}
+
+.box10 {
+    width: 900px;
+    height: 200px;
+    display: flex;
+    font-size: larger;
+    background-image: url(img/bg9.jpg);
+    background-size: cover;
+    background-clip:text ;
+    text-align: center;
+    justify-content: center;
+    overflow: hidden;
+    flex-direction: column;
+    font-family: 'Cinzel Decorative', cursive;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
